@@ -1,0 +1,8 @@
+i {
+	font-size: 4vw;
+}
+
+#links i {
+	font-size: 2vw;
+	color: green;
+}

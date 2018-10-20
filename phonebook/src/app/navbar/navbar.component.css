@@ -1,0 +1,13 @@
+a {
+	color: white;
+	margin-right: 3vw;
+}
+
+a:hover {
+	
+	color: #C9843C;
+}
+
+.navbar-nav {
+	font-size: 1.3vw;
+}
